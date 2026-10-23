@@ -1,0 +1,4 @@
+Model,Cross_Validation_Accuracy,Test_Accuracy
+Logistic Regression,76.03,75.79
+Random Forest,75.51,76.84
+Decision Tree,72.97,73.68
